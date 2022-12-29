@@ -1,5 +1,5 @@
 # Example AuditJS Repo
-
+   
 [![CircleCI](https://circleci.com/gh/sonatype-nexus-community/example-auditjs-repo.svg?style=svg)](https://circleci.com/gh/sonatype-nexus-community/example-auditjs-repo)
 
 [![Build Status](https://travis-ci.org/sonatype-nexus-community/example-auditjs-repo.svg?branch=master)](https://travis-ci.org/sonatype-nexus-community/example-auditjs-repo)
